@@ -1,5 +1,5 @@
 # Hello, I'm Gülçin İşidoğru 👋  
-### Backend Developer | Aspiring Data Analyst | Spring Boot & Data Visualization Enthusiast  
+### Software Engineer | Product Enthusiast | Java & Data Analytics Specialist 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gulcinisidogru&label=Profile%20Views&color=0e75b6&style=flat" alt="gulcinisidogru" /> 
@@ -8,9 +8,9 @@
   </a>
 </p>
 
-🔭 **Currently:** Developing professional backend projects with Java Spring Boot  
-🌱 **New Focus:** Building expertise in data analysis and business intelligence (Python, SQL, Tableau)  
-🚀 **Unique Advantage:** Creating solutions that combine backend expertise with data analytics  
+🔭 **Currently:** Building and scaling user-centric solutions through the full product lifecycle, with a strong foundation in Java-based enterprise systems.  
+🌱 **Focus:** Exploring the intersection of Product Thinking and AI, with a growing expertise in Python and Data Intelligence to enhance real-world products.  
+🚀 **Unique Advantage:** Turning complex ideas into valuable products by bridging the gap between technical Backend architecture and Data-driven insights.
 
 ---
 
